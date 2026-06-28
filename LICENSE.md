@@ -1,4 +1,4 @@
-# 
+# Instantáneo AutoHotkey scripts para Mac OS | Personalizado AutoHotkey scripts para PC Windows. Con visualización de datos y limitación de velocidad — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
